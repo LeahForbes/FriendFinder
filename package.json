@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/smaashthemac/friend-finder/issues"
   },
-  "homepage": "https://github.com/smaashthemac/friend-finder#readme"
+  "homepage": "https://github.com/smaashthemac/friend-finder#readme",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
 }
